@@ -8,7 +8,7 @@ This is the hobby showcase of JoshuaWillow. All of my public hobby productions a
 
 ## 爱好橱窗的主要内容 Contents
 
-### 1. 语言学习与人造语言 Language Learning and Conlangs
+### 1. 语言学习与人造语言 Language Learning and Constructed Languages (Conlangs)
 
 本人的语言学习成果包括自然语言及知名的人造语言。
 
