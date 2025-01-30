@@ -20,7 +20,7 @@ The natural languages I've learnt include some languages that are still in use, 
 
 此外本人还自己创作了一些人造语言。依据设定，它们既有在语系层面少量参考了现实原型制作的“近架空语言”，如千织语，也有毫无现实原型的“全架空语言”，如古娜拉语（目前仍然在制作中）。
 
-Moerover, I've created some handmade conlangs. According to their settings, they not only have "penconlang" that has consulted some language families in real world, like Chiorian, but also have "holoconlang" that doesn't consult any real language archetype, like Gulara (Not completed).
+Moreover, I've created some handmade conlangs. According to their settings, they not only have "penconlang" that has consulted some language families in real world, like Chiorian, but also have "holoconlang" that doesn't consult any real language archetype, like Gunara (Not completed).
 
 ### 2. 架空世界 Fantasy Worlds/ Conworlds
 
