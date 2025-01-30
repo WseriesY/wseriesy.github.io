@@ -16,7 +16,7 @@
 ## 爱好成果
 
 ### 语言学习笔记仓库链接：
-[语言学习笔记仓](wseriesy.github.io/multilang-resource/)
+[语言学习笔记仓](https://wseriesy.github.io/multilang-resource/)
 ### 现代化提瓦特设定集：
 ……敬请期待（当然，您暂时可以访问本人的米游社账号“JoshuaWillow”的主页搜索以获取相关信息）
 
