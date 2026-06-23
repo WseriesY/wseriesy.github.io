@@ -8,9 +8,9 @@ This is the hobby showcase of JoshuaWillow. All of my public hobby productions a
 
 ## 橱窗资讯 Showcase News
 
-人造语言 遐蝶语 现正式发布。点击下面“语言学习笔记仓库链接”→选择self-created-languages分支可获取笔记文件。
+人造语言 遐蝶语 现正式发布。点击下面“语言学习笔记仓库链接”→点击链接“自创人造语言笔记仓”可获取笔记文件。
 
-The conlang "Castorian" is released now. Click the link "Language Learning Notes Repository"below → then choose the fork "self-created-languages" to get the note document.
+The conlang "Castorian" is released now. Click the link "Language Learning Notes Repository" below → then click the link “自创人造语言笔记仓(the "self-created-languages" fork)” to get the note document.
 
 ## 爱好橱窗的主要内容 Contents of the Showcase
 
@@ -56,4 +56,4 @@ These refer to my permitted Secondary Creations of some famous ACG conworlds. My
 
 ……Coming Soon
 
-最近更新于 Last Updated： 2026-06-23 15:55 (GMT+8)
+最近更新于 Last Updated： 2026-06-23 16:10 (GMT+8)
