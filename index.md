@@ -8,9 +8,9 @@ This is the hobby showcase of JoshuaWillow. All of my public hobby productions a
 
 ## 橱窗资讯 Showcase News
 
-近日暂无本橱窗的新资讯，感谢关注。
+人造语言 遐蝶语 现正式发布。点击下面“语言学习笔记仓库链接”→选择self-created-languages分支可获取笔记文件。
 
-No recent news, thanks for your focus.
+The conlang "Castorian" is released now. Click the link "Language Learning Notes Repository"below → then choose the fork "self-created-languages" to get the note document.
 
 ## 爱好橱窗的主要内容 Contents of the Showcase
 
@@ -52,8 +52,8 @@ These refer to my permitted Secondary Creations of some famous ACG conworlds. My
 
 ### 现代化提瓦特设定集 the Modern Teyvat Settings
 
-……敬请期待（当然，您暂时可以访问本人的米游社账号“JoshuaWillow”的主页搜索以获取相关信息）
+……敬请期待（当然，您可以访问本人米游社账号“JoshuaWillow”的主页以浏览本人相关创作内容）
 
 ……Coming Soon
 
-最近更新于 Last Updated： 2026-06-21 23:00 (GMT+8)
+最近更新于 Last Updated： 2026-06-23 15:55 (GMT+8)
